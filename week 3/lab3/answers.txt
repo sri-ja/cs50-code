@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it takes least time for best case (sorted array)
+
+sort2 uses: merge sort
+
+How do you know?: it takes the least time for worst case (revesed array) and also takes comparable times for both sorted and reversed arrays
+
+sort3 uses: selection sort 
+
+How do you know?: takes the most amount of time for best case (sorted array) and takes comparable times for both sorted and reversed arrays 
